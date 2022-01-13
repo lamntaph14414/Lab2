@@ -5,7 +5,7 @@ const HomePage = {
         return /* html */`
                 <!-- banner -->
             <div class="mt-4">
-                <img class="w-full h-auto" src="./img//banner.jpg" alt="">
+                <img class="w-full h-auto" src="./img/banner.jpg" alt="">
             </div>
             <!-- nd -->
             <div>

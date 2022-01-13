@@ -11,16 +11,16 @@ router.on({
     "/": () => {
         print(HomePage.render());
     },
-    "/tsinh": () => {
+    "/tuyensinh": () => {
         print("Trang tuyển sinh");
     },
-    "/ctdt": () => {
-        print("Trương trình đào tạo");
+    "/chuongtringdaotao": () => {
+        print("Chương trình đào tạo");
     },
-    "/goctsinh": () => {
+    "/goctuyensinh": () => {
         print("Góc tuyển sinh");
     },
-    "/tdung": () => {
+    "/tuyendung": () => {
         print("Tuyển dụng");
     },
     "/news/:id": (value) => {
